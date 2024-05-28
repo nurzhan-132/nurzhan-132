@@ -2,8 +2,6 @@
 
 ## Software Developer
 
-#### A CS student who is trying to become part of the IT world  
-
 #### 💼 Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -24,8 +22,8 @@
 
 #### 🌱 I'm currently learning
 
-- Express JS
-- Vue
+- Java
+- Spring
 
 #### 📫 How to reach me: 
 - nurzhanmomynov01@gmail.com 
